@@ -17,9 +17,19 @@ As for my projects, you can find some of them below.
 
 
 ### Windows Defense 
+#### Created in 72 hours for [Mini Jam 121](https://itch.io/jam/mini-jam-121-reflection)
 
 [Repo](https://github.com/Lockd/windows-td)  
 [Link](https://lockd.itch.io/windows-defense)  
+
+### Gentle (g)host
+#### Created in 48 hours for [GMTK Game Jam 2023](https://itch.io/jam/gmtk-2023)
+
+[Repo](https://github.com/Lockd/gmtk2023/tree/main)  
+[Link](https://ldrg.itch.io/gentleghost)  
+
+
+## 📊 Statistics/Data Science Projects
 
 <!--
 ### Sendburg Delivery Service
