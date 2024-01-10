@@ -1,8 +1,6 @@
 ### Hi there 👋 My name is Vladislav Fedorov.
 
-I am an aspiring Game Developer and an up-and-coming Data Scientist. 
-
-Mostly, I specialize in Unity and C#, but I am also proficient with R, Python, and SQL.
+I am an aspiring Game Developer and an up-and-coming Data Scientist. I specialize in Unity and C#, but I am also proficient with R, Python, and SQL.
 
 Gamedev is my passion and a field where most of my projects lie, while Data Science is my desired career path and the subject of my studies. 
 
