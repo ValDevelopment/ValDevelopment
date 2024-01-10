@@ -1,7 +1,7 @@
 ### Hi there 👋
-### My name is Vladislav Fedorov, and I am an aspiring Game Developer and an up-and-coming Data Scientist. 
-### Gamedev is my passion and a field where most of my projects lie, while Data Science is my desired career path and the subject of my studies. 
-### Speaking of my studies, I have acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign. I am also planning on continuing my education at a Master's level.
+My name is Vladislav Fedorov, and I am an aspiring Game Developer and an up-and-coming Data Scientist. 
+Gamedev is my passion and a field where most of my projects lie, while Data Science is my desired career path and the subject of my studies. 
+Speaking of my studies, I have acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign. I am also planning on continuing my education at a Master's level.
 
 
 <!--
