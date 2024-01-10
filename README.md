@@ -6,6 +6,8 @@ Gamedev is my passion and a field where most of my projects lie, while Data Scie
 
 Speaking of my studies, I have acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign. I am also planning on continuing my education at a Master's level.
 
+And for my projects, you can find some of the most prominent ones below. 
+
 
 <!--
 **ValDevelopment/ValDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
