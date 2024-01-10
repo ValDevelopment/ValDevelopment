@@ -7,6 +7,19 @@ Gamedev is my passion and a field where most of my projects lie, while Data Scie
 Speaking of my studies, I have acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign. I am also planning on continuing my education at a Master's level.
 
 As for my projects, you can find some of them below. 
+
+## 🎮 Gamedev Projects
+
+### Dino's Nightmare
+#### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
+[Repo](https://github.com/Lockd/Hell-dodgeball)  
+[Link](https://lockd.itch.io/dinos-nightmare) 
+
+
+### Windows Defense 
+
+[Repo](https://github.com/Lockd/windows-td)  
+[Link](https://lockd.itch.io/windows-defense)  
 <!--
 
 **ValDevelopment/ValDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
