@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vladislav Fedorov.
+### Hi there 👋 My name is Vladislav Fedorov
 
 I am an aspiring Game Developer and an up-and-coming Data Scientist. I specialize in Unity and C#, but I am also proficient with R, Python, and SQL.
 
