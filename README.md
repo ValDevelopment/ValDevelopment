@@ -41,7 +41,7 @@ As for my projects, you can find some of them below.
 ### R Shiny Application
 
 #### This was a final project for a Data Management class at my university. It involved reading the data on musical charts, manipulating, and analyzing it to later use it in a Shiny Application.
-#### The application itself was used for displaying the filtered and manipulated data based on user input (based on a chosen artist or year).  
+#### The application itself was used for displaying the filtered and manipulated data based on user input (artist or year, for example).  
 
 [Repo](https://github.com/ValDevelopment/Music-Shiny)  
 <!--
