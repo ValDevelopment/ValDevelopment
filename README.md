@@ -4,7 +4,7 @@ I am a Game Developer and a Data Analyst. I specialize in Unity and C#, but I am
 
 I acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign, and I am planning on continuing my education at a Master's level.
 
-Apart from studying, I participate in Game Jams and work on personal projects in Unity, some of which you can find below.
+I work with R, Python, and SQL for university projects, and apart from that I participate in Game Jams and work on personal projects with Unity and C#. You can find some of them below.
 
 ## 🎮 Gamedev Projects
 
@@ -32,12 +32,6 @@ Apart from studying, I participate in Game Jams and work on personal projects in
 
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [Link](https://ldrg.itch.io/gentleghost)  
-
-
-
-
-
-In addition, below are my Data Science projects.
 
 ## 📊 Statistics/Data Science Projects
 
