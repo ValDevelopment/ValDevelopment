@@ -2,11 +2,9 @@
 
 I am a Game Developer and a Data Analyst. I specialize in Unity and C#, but I am also proficient with R, Python, and SQL.
 
-Gamedev is my passion and a field where most of my projects lie, while Data Science is my desired career path and the subject of my studies. 
+I acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign, and I am planning on continuing my education at a Master's level.
 
-Speaking of my studies, I have acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign. I am also planning on continuing my education at a Master's level.
-
-As for my projects, you can find some of them below. 
+Apart from studying, I participate in Game Jams and work on personal projects in Unity, some of which you can find below.
 
 ## 🎮 Gamedev Projects
 
@@ -35,6 +33,7 @@ As for my projects, you can find some of them below.
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [Link](https://ldrg.itch.io/gentleghost)  
 
+In addition, below are my Data Science projects.
 
 ## 📊 Statistics/Data Science Projects
 
