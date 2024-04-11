@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Vladislav Fedorov
 
-I am a Game Developer and a Data Analyst. I specialize in Unity and C#, but I am also proficient with R, Python, and SQL.
+I am a Game Developer and a Data Analyst. 
 
 I acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign, and I am planning on continuing my education at a Master's level.
 
