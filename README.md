@@ -31,7 +31,7 @@ You can find some of my projects below.
 
 ### Gentle (g)host
 #### Created in 48 hours for [GMTK Game Jam 2023](https://itch.io/jam/gmtk-2023)
-#### Role: UI/UX Programmer
+#### Role: UI Programmer
 
 #### Out of 6769 submissions, our game placed 72nd in Presentation and 198th in Overall rankings.
 
