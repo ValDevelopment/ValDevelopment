@@ -12,7 +12,7 @@ You can find some of my projects below.
 
 ### Dino's Nightmare
 #### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
-#### Roles: gameplay programmer, level designer
+#### Roles: Gameplay Programmer, Level Designer
 
 #### Out of 56 submissions, our game placed 1st in Presentation and 3rd in Overall rankings.
 
@@ -22,7 +22,7 @@ You can find some of my projects below.
 
 ### Windows Defense 
 #### Created in 72 hours for [Mini Jam 121](https://itch.io/jam/mini-jam-121-reflection)
-#### Role: Gameplay programmer
+#### Role: Gameplay Programmer
 
 #### Out of 120 submissions, our game placed 7th in Enjoyment and 21st in Overall rankings.
 
@@ -31,7 +31,7 @@ You can find some of my projects below.
 
 ### Gentle (g)host
 #### Created in 48 hours for [GMTK Game Jam 2023](https://itch.io/jam/gmtk-2023)
-#### Role: UI programmer
+#### Role: UI/UX Programmer
 
 #### Out of 6769 submissions, our game placed 72nd in Presentation and 198th in Overall rankings.
 
