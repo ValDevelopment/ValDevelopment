@@ -4,7 +4,9 @@ I am a Game Developer and a Data Analyst.
 
 I acquired a Bachelor of Science in Statistics degree at the University of Illinois Urbana-Champaign, and I am planning on continuing my education at a Master's level.
 
-I work with R, Python, and SQL for university projects, and apart from that I participate in Game Jams and work on personal projects with Unity and C#. You can find some of them below.
+I specialize in Unity and C#, but I also work with R, Python, and SQL.
+
+You can find some of my projects below.
 
 ## 🎮 Gamedev Projects
 
