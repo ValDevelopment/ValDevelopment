@@ -8,6 +8,16 @@ I specialize in Unity and C#, but I also work with R, Python, and SQL.
 
 You can find some of my projects below.
 
+## 📊 Statistics/Data Science Projects
+
+### R Shiny Application
+
+#### This was a final project for a Data Management class at my university. It involved reading the data on musical charts, manipulating, and analyzing it to later use it in a Shiny Application.
+#### The application itself was used for displaying the filtered and manipulated data based on user input (artist or year, for example).  
+
+[Repo](https://github.com/ValDevelopment/Music-Shiny)  
+
+
 ## 🎮 Gamedev Projects
 
 ### Dino's Nightmare
@@ -38,14 +48,6 @@ You can find some of my projects below.
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [Link](https://ldrg.itch.io/gentleghost)  
 
-## 📊 Statistics/Data Science Projects
-
-### R Shiny Application
-
-#### This was a final project for a Data Management class at my university. It involved reading the data on musical charts, manipulating, and analyzing it to later use it in a Shiny Application.
-#### The application itself was used for displaying the filtered and manipulated data based on user input (artist or year, for example).  
-
-[Repo](https://github.com/ValDevelopment/Music-Shiny)  
 <!--
 ### Sendburg Delivery Service
 #### Created in 72 hours for [Ludum Dare 53](https://ldjam.com/events/ludum-dare/53)
