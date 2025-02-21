@@ -17,6 +17,13 @@ You can find some of my projects below.
 
 [Repo](https://github.com/ValDevelopment/Music-Shiny)  
 
+### Predicting Tweet Locations: A Machine Learning Approach to Text Analysis
+
+#### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
+#### 
+
+[Repo](https://github.com/ValDevelopment/TweetLocations)  
+
 
 ## 🎮 Gamedev Projects
 
