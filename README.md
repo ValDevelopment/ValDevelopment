@@ -20,9 +20,10 @@ You can find some of my projects below.
 ### Predicting Tweet Locations: A Machine Learning Approach to Text Analysis
 
 #### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
-#### 
+#### In this group project for a Machine Learning class, I worked on predicting tweet locations using Random Forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and Logistic Regression as a baseline. 
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
+[Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
 
 ## 🎮 Gamedev Projects
