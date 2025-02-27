@@ -22,7 +22,7 @@ You can find some of my projects below.
 #### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
 #### 
 
-[Repo](https://github.com/ValDevelopment/TweetLocations)  
+[Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
 
 ## 🎮 Gamedev Projects
