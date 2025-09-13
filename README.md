@@ -27,7 +27,7 @@ You can find some of my projects below.
 
 ### CS:GO Economy Analysis
 
-#### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging large datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each round type. The analysis includes match-level trends and team-level patterns, with visualizations showcasing round-by-round decisions in individual matches.
+#### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
 
