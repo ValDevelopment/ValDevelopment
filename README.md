@@ -36,6 +36,7 @@ You can find some of my projects below.
 #### An interactive, content-based recommender system designed to help indie developers discover potential game publishers based on historical catalog similarity. The tool matches a game concept—defined by Steam tags and a target price point—to publishers that have released similar games in the past, and provides concrete examples to support exploration and outreach decisions.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
+
 [App Demo]([https://github.com/ValDevelopment/Game-Sales-Project](https://game-sales-project-7gzqtuytoghv4rbvsr5fdq.streamlit.app/))
 
 
