@@ -10,14 +10,14 @@ You can find some of my projects below.
 
 ## 📊 Statistics/Data Science Projects
 
-### R Shiny Application
+### Interactive Music Chart Trend Analysis Dashboard
 
 #### This was a final project for a Data Management class at my university. It involved reading the data on musical charts, manipulating, and analyzing it to later use it in a Shiny Application.
 #### The application itself was used for displaying the filtered and manipulated data based on user input (artist or year, for example).  
 
 [Repo](https://github.com/ValDevelopment/Music-Shiny)  
 
-### Predicting Tweet Locations: A Machine Learning Approach to Text Analysis
+### Text-Based Geographic Region Classification Tool
 
 #### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
 #### In this group project for a Machine Learning class, I worked on predicting tweet locations using Random Forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and Logistic Regression as a baseline. 
@@ -25,11 +25,18 @@ You can find some of my projects below.
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 [Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
-### CS:GO Economy Analysis
+### Counter Strike Team Analysis Tool
 
 #### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
+
+### Indie Publisher Recommendation Tool
+
+#### An interactive, content-based recommender system designed to help indie developers discover potential game publishers based on historical catalog similarity.
+The tool matches a game concept—defined by Steam tags and a target price point—to publishers that have released similar games in the past, and provides concrete examples to support exploration and outreach decisions.
+
+[Repo](https://github.com/ValDevelopment/Game-Sales-Project)
 
 
 
