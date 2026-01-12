@@ -37,7 +37,7 @@ You can find some of my projects below.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
 
-[App Demo]([https://github.com/ValDevelopment/Game-Sales-Project](https://game-sales-project-7gzqtuytoghv4rbvsr5fdq.streamlit.app/))
+[App Demo](https://game-sales-project-7gzqtuytoghv4rbvsr5fdq.streamlit.app/)
 
 
 
