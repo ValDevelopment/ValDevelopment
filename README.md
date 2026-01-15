@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Vladislav Fedorov
 
-I am a Statistician and a Game Developer. 
+I am a Statistician and Game Developer with a strong focus on applied data analysis, machine learning, and interactive tools.
 
 I have a Bachelor of Science in Statistics degree from the University of Illinois Urbana-Champaign, and I am currently pursuing a Master's degree in Statistics and Analytics at the same university.
 
-I specialize in R, Python, and SQL, but I also work with Unity and C# for Game Development.
+I specialize in R, Python, and SQL, but I also work with Unity and C# for game development.
 
 You can find some of my projects below.
 
@@ -20,19 +20,19 @@ You can find some of my projects below.
 ### Text-Based Geographic Region Classification Tool
 
 #### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
-#### In this group project for a Machine Learning class, I worked on predicting tweet locations using Random Forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and Logistic Regression as a baseline. 
+#### In this group project for a Machine Learning class, I worked on predicting tweet locations using random forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and logistic regression as a baseline. 
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
 [Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
-### Counter Strike Team Analysis Tool
+### Counter-Strike Team Analysis Tool
 
 #### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
 
-[App Demo](https://counter-strike-analytics.streamlit.app/)
+[Live App](https://counter-strike-analytics.streamlit.app/)
 
 ### Indie Publisher Recommendation Tool
 
@@ -40,7 +40,7 @@ You can find some of my projects below.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
 
-[App Demo](https://indie-publisher-search.streamlit.app/)
+[Live App](https://indie-publisher-search.streamlit.app/)
 
 
 
