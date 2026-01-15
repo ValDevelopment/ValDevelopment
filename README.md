@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Vladislav Fedorov
 
-I am a Data Analyst and a Game Developer. 
+I am a Statistician and a Game Developer. 
 
 I have a Bachelor of Science in Statistics degree from the University of Illinois Urbana-Champaign, and I am currently pursuing a Master's degree in Statistics and Analytics.
 
