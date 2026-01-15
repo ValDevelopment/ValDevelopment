@@ -50,6 +50,7 @@ You can find some of my projects below.
 
 [Repo](https://github.com/ValDevelopment/Music-Shiny)  
 
+[Live App](https://7tz6qn-vladislav-fedorov.shinyapps.io/finalapp/)
 
 
 
