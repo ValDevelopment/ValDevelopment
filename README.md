@@ -12,15 +12,17 @@ You can find some of my projects below.
 
 ### Interactive Music Chart Trend Analysis Dashboard
 
-#### This was a final project for a Data Management class at my university. It involved reading the data on musical charts, manipulating, and analyzing it to later use it in a Shiny Application.
-#### The application itself was used for displaying the filtered and manipulated data based on user input (artist or year, for example).  
+#### Cleaned, transformed, and analyzed historical music chart data to power an interactive Shiny dashboard.
+#### The application allows users to explore chart trends by artist and year, enabling dynamic filtering and visualization of ranking patterns over time.
 
 [Repo](https://github.com/ValDevelopment/Music-Shiny)  
 
 ### Text-Based Geographic Region Classification Tool
 
 #### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
-#### In this group project for a Machine Learning class, I worked on predicting tweet locations using random forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and logistic regression as a baseline. 
+#### Built text-based classification models to predict the geographic region of tweets using high-dimensional textual features.
+#### Focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
+#### The broader project also explored logistic regression baselines and BiLSTM models for sequential text patterns, implemented by other team members.
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
@@ -28,7 +30,8 @@ You can find some of my projects below.
 
 ### Counter-Strike Team Analysis Tool
 
-#### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
+#### Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
+#### Merged and transformed match datasets to track transitions between eco, force, and full-buy rounds, and visualized their relationship to round outcomes using interactive plots.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
 
@@ -36,7 +39,8 @@ You can find some of my projects below.
 
 ### Indie Publisher Recommendation Tool
 
-#### An interactive, content-based recommender system designed to help indie developers discover potential game publishers based on historical catalog similarity. The tool matches a game concept—defined by Steam tags and a target price point—to publishers that have released similar games in the past, and provides concrete examples to support exploration and outreach decisions.
+#### Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
+#### Matched game concepts—defined by Steam tags and target price point—to publishers with comparable releases, and surfaces concrete examples to support discovery and outreach.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
 
