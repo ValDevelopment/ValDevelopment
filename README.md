@@ -12,12 +12,25 @@ You can find some of my projects below.
 
 ## 📊 Statistics/Data Science Projects
 
-### Interactive Music Chart Trend Analysis Dashboard
+### Counter-Strike Team Analysis Tool
 
-#### Cleaned, transformed, and analyzed historical music chart data to power an interactive Shiny dashboard.
-#### The application allows users to explore chart trends by artist and year, enabling dynamic filtering and visualization of ranking patterns over time.
+#### Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
+#### Merged and transformed match datasets to track transitions between eco, force, and full-buy rounds, and visualized their relationship to round outcomes using interactive plots.
 
-[Repo](https://github.com/ValDevelopment/Music-Shiny)  
+[Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
+
+[Live App](https://counter-strike-analytics.streamlit.app/)
+
+
+### Indie Publisher Recommendation Tool
+
+#### Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
+#### Matched game concepts—defined by Steam tags and target price point—to publishers with comparable releases, and surfaces concrete examples to support discovery and outreach.
+
+[Repo](https://github.com/ValDevelopment/Game-Sales-Project)
+
+[Live App](https://indie-publisher-search.streamlit.app/)
+
 
 ### Text-Based Geographic Region Classification Tool
 
@@ -29,23 +42,14 @@ You can find some of my projects below.
 
 [Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
-### Counter-Strike Team Analysis Tool
 
-#### Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
-#### Merged and transformed match datasets to track transitions between eco, force, and full-buy rounds, and visualized their relationship to round outcomes using interactive plots.
+### Interactive Music Chart Trend Analysis Dashboard
 
-[Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
+#### Cleaned, transformed, and analyzed historical music chart data to power an interactive Shiny dashboard.
+#### The application allows users to explore chart trends by artist and year, enabling dynamic filtering and visualization of ranking patterns over time.
 
-[Live App](https://counter-strike-analytics.streamlit.app/)
+[Repo](https://github.com/ValDevelopment/Music-Shiny)  
 
-### Indie Publisher Recommendation Tool
-
-#### Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
-#### Matched game concepts—defined by Steam tags and target price point—to publishers with comparable releases, and surfaces concrete examples to support discovery and outreach.
-
-[Repo](https://github.com/ValDevelopment/Game-Sales-Project)
-
-[Live App](https://indie-publisher-search.streamlit.app/)
 
 
 
