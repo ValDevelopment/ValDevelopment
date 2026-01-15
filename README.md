@@ -6,6 +6,8 @@ I have a Bachelor of Science in Statistics degree from the University of Illinoi
 
 I specialize in R, Python, and SQL, but I also work with Unity and C# for game development.
 
+I enjoy building end-to-end projects, from data preparation and modeling to interactive tools and video games.
+
 You can find some of my projects below.
 
 ## 📊 Statistics/Data Science Projects
