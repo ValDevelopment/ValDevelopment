@@ -30,14 +30,14 @@ You can find some of my projects below.
 #### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
+[App Demo](https://counter-strike-analytics.streamlit.app/)
 
 ### Indie Publisher Recommendation Tool
 
 #### An interactive, content-based recommender system designed to help indie developers discover potential game publishers based on historical catalog similarity. The tool matches a game concept—defined by Steam tags and a target price point—to publishers that have released similar games in the past, and provides concrete examples to support exploration and outreach decisions.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
-
-[App Demo](https://game-sales-project-7gzqtuytoghv4rbvsr5fdq.streamlit.app/)
+[App Demo](https://indie-publisher-search.streamlit.app/)
 
 
 
