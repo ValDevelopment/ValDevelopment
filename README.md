@@ -23,6 +23,7 @@ You can find some of my projects below.
 #### In this group project for a Machine Learning class, I worked on predicting tweet locations using Random Forests. My focus was on handling high-dimensional text data with TF-IDF, mitigating class imbalance, and integrating sentiment analysis and clustering to improve predictions. We also looked into BiLSTM for sequential text patterns and Logistic Regression as a baseline. 
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
+
 [Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
 ### Counter Strike Team Analysis Tool
@@ -30,6 +31,7 @@ You can find some of my projects below.
 #### This project focuses on analyzing CS:GO match and team data to study economy-based trends. It involved manipulating and merging datasets and analyzing team transitions between eco, force, and full-buy rounds, while also studying their win rates for each investment type. The analysis includes match-level and team-level trends with visualizations showcasing round-by-round decisions in individual matches.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
+
 [App Demo](https://counter-strike-analytics.streamlit.app/)
 
 ### Indie Publisher Recommendation Tool
@@ -37,6 +39,7 @@ You can find some of my projects below.
 #### An interactive, content-based recommender system designed to help indie developers discover potential game publishers based on historical catalog similarity. The tool matches a game concept—defined by Steam tags and a target price point—to publishers that have released similar games in the past, and provides concrete examples to support exploration and outreach decisions.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
+
 [App Demo](https://indie-publisher-search.streamlit.app/)
 
 
@@ -51,6 +54,7 @@ You can find some of my projects below.
 #### Out of 56 submissions, our game placed 1st in Presentation and 3rd in Overall rankings.
 
 [Repo](https://github.com/Lockd/Hell-dodgeball)  
+
 [Link](https://lockd.itch.io/dinos-nightmare) 
 
 
@@ -61,6 +65,7 @@ You can find some of my projects below.
 #### Out of 120 submissions, our game placed 7th in Enjoyment and 21st in Overall rankings.
 
 [Repo](https://github.com/Lockd/windows-td)  
+
 [Link](https://lockd.itch.io/windows-defense)  
 
 ### Gentle (g)host
@@ -70,6 +75,7 @@ You can find some of my projects below.
 #### Out of 6769 submissions, our game placed 72nd in Presentation and 198th in Overall rankings.
 
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
+
 [Link](https://ldrg.itch.io/gentleghost)  
 
 <!--
