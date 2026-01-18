@@ -57,6 +57,21 @@ You can find some of my projects below.
 
 ## 🎮 Gamedev Projects
 
+<!--
+### The Last Spellwright
+#### A personal long-term project: a 2D roguelike deck-builder built around spell composition. Cards modify a spell state by adding elemental components rather than resolving fixed effects.
+
+Core mechanics:
+- Elemental cards contribute to a spell state that is resolved on cast
+  - Spells can either resolve as the sum of their components, combining elemental effects with optional Shape and Style modifiers, or as specific spells with strict composition requirements and higher payoff
+- Combat emphasizes knowledge and mana efficiency
+- Elemental levels scale dynamically with deck composition and provide passive power increases
+- Increasing deck size trades spellcasting consistency for broader access to power
+
+[Playable Demo](https://valdevelopment.itch.io/the-last-spellwright)  
+-->
+
+
 ### Dino's Nightmare
 #### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
 #### Roles: Gameplay Programmer, Level Designer
@@ -87,26 +102,3 @@ You can find some of my projects below.
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 
 [Link](https://ldrg.itch.io/gentleghost)  
-
-<!--
-### Sendburg Delivery Service
-#### Created in 72 hours for [Ludum Dare 53](https://ldjam.com/events/ludum-dare/53)
-
-[Repo](https://github.com/Lockd/windows-td)  
-[Link](https://lockd.itch.io/windows-defense)  
-
-
-
-**ValDevelopment/ValDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
