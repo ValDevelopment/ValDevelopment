@@ -4,7 +4,7 @@ I am a Statistician and Game Developer with a strong focus on applied data analy
 
 I have a Bachelor of Science in Statistics degree from the University of Illinois Urbana-Champaign, and I am currently pursuing a Master's degree in Statistics and Analytics at the same university.
 
-I specialize in R, Python, and SQL, but I also work with Unity and C# for game development.
+I specialize in R and Python, but I also work with Unity and C# for game development.
 
 I enjoy building end-to-end projects, from data preparation and modeling to interactive tools and video games.
 
