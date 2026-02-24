@@ -42,7 +42,7 @@ You can find some of my projects below.
 
 [Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
-
+<!---
 ### Interactive Music Chart Trend Analysis Dashboard
 
 #### Cleaned, transformed, and analyzed historical music chart data to power an interactive Shiny dashboard.
