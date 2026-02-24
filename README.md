@@ -55,7 +55,7 @@ You can find some of my projects below.
 
 
 
-## 🎮 Gamedev Projects
+
 
 <!--
 ### The Last Spellwright
@@ -70,8 +70,8 @@ Core mechanics:
 
 [Playable Demo](https://valdevelopment.itch.io/the-last-spellwright)  
 -->
-
-
+## 🎮 Gamedev Projects
+ 
 ### Dino's Nightmare
 #### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
 #### Roles: Gameplay Programmer, Level Designer
