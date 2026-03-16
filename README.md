@@ -24,8 +24,8 @@ You can find some of my projects below.
 
 ### Indie Publisher Recommendation Tool
 
-#### Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
-#### Matched game concepts—defined by Steam tags and target price point—to publishers with comparable releases, and surfaces concrete examples to support discovery and outreach.
+- Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
+- Matched game concepts—defined by Steam tags and target price point—to publishers with comparable releases, and surfaces concrete examples to support discovery and outreach.
 
 [Repo](https://github.com/ValDevelopment/Game-Sales-Project)
 
@@ -34,9 +34,9 @@ You can find some of my projects below.
 
 ### Text-Based Geographic Region Classification Tool
 
-#### Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
-#### Built text-based classification models to predict the geographic region of tweets using high-dimensional textual features. I focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
-#### The broader project also explored logistic regression baselines and BiLSTM models for sequential text patterns, implemented by other team members.
+- Team: Ramanan Srirajan, Bochuan Zhang, Vladislav Fedorov
+- Built text-based classification models to predict the geographic region of tweets using high-dimensional textual features. I focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
+- The broader project also explored logistic regression baselines and BiLSTM models for sequential text patterns, implemented by other team members.
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
@@ -80,9 +80,9 @@ Core mechanics:
 
 #### Out of 56 submissions, our game placed 1st in Presentation and 3rd in Overall rankings.
 
-#### Designed and built the game’s arena layout and art placement
-#### Implemented player movement and scoring systems
-#### Shaped core gameplay feel and pacing during the 72-hour cycle
+- Designed and built the game’s arena layout and art placement
+- Implemented player movement and scoring systems
+- Shaped core gameplay feel and pacing during the 72-hour cycle
 
 [Repo](https://github.com/Lockd/Hell-dodgeball)  
 [Link](https://lockd.itch.io/dinos-nightmare) 
@@ -94,9 +94,9 @@ Core mechanics:
 
 #### Out of 120 submissions, our game placed 7th in Enjoyment and 21st in Overall rankings.
 
-#### Implemented enemy AI and unit placement mechanics
-#### Built UI systems with focus on usability  
-#### Contributed to gameplay design and balancing 
+- Implemented enemy AI and unit placement mechanics
+- Built UI systems with focus on usability  
+- Contributed to gameplay design and balancing 
 
 [Repo](https://github.com/Lockd/windows-td)  
 [Link](https://lockd.itch.io/windows-defense)  
