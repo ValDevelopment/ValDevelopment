@@ -108,9 +108,9 @@ Core mechanics:
 
 #### Out of 6769 submissions, our game placed 72nd in Presentation and 198th in Overall rankings.
 
-#### Built UI systems including inventory and player interaction interfaces
-#### Implemented UX elements to improve gameplay clarity and feedback
-#### Contributed to early prototyping and integrated art assets into the game
+- Built UI systems including inventory and player interaction interfaces
+- Implemented UX elements to improve gameplay clarity and feedback
+- Contributed to early prototyping and integrated art assets into the game
 
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [Link](https://ldrg.itch.io/gentleghost)  
