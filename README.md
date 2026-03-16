@@ -14,8 +14,8 @@ You can find some of my projects below.
 
 ### Counter-Strike Team Analysis Tool
 
-#### Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
-#### Merged and transformed match datasets to track transitions between eco, force, and full-buy rounds, and visualized their relationship to round outcomes using interactive plots.
+- Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
+- Merged and transformed match datasets to track transitions between eco, force, and full-buy rounds, and visualized their relationship to round outcomes using interactive plots.
 
 [Repo](https://github.com/ValDevelopment/CS-GO-Team-Economy)
 
