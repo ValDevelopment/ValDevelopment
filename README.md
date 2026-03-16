@@ -80,9 +80,9 @@ Core mechanics:
 
 #### Out of 56 submissions, our game placed 1st in Presentation and 3rd in Overall rankings.
 
-• Designed and built the game’s arena layout and art placement
-• Implemented player movement and scoring systems
-• Shaped core gameplay feel and pacing during the 72-hour cycle
+#### Designed and built the game’s arena layout and art placement
+#### Implemented player movement and scoring systems
+#### Shaped core gameplay feel and pacing during the 72-hour cycle
 
 [Repo](https://github.com/Lockd/Hell-dodgeball)  
 [Link](https://lockd.itch.io/dinos-nightmare) 
@@ -94,9 +94,9 @@ Core mechanics:
 
 #### Out of 120 submissions, our game placed 7th in Enjoyment and 21st in Overall rankings.
 
-• Implemented enemy AI and unit placement mechanics
-• Built UI systems with focus on usability  
-• Contributed to gameplay design and balancing 
+#### Implemented enemy AI and unit placement mechanics
+#### Built UI systems with focus on usability  
+#### Contributed to gameplay design and balancing 
 
 [Repo](https://github.com/Lockd/windows-td)  
 [Link](https://lockd.itch.io/windows-defense)  
@@ -108,9 +108,9 @@ Core mechanics:
 
 #### Out of 6769 submissions, our game placed 72nd in Presentation and 198th in Overall rankings.
 
-• Built UI systems including inventory and player interaction interfaces
-• Implemented UX elements to improve gameplay clarity and feedback
-• Contributed to early prototyping and integrated art assets into the game
+#### Built UI systems including inventory and player interaction interfaces
+#### Implemented UX elements to improve gameplay clarity and feedback
+#### Contributed to early prototyping and integrated art assets into the game
 
 [Repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [Link](https://ldrg.itch.io/gentleghost)  
