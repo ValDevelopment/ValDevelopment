@@ -72,7 +72,7 @@ Core mechanics:
 -->
 ## 🎮 Gamedev Projects
 
-### [itch.io portfolio](https://valdevelopment.itch.io/)
+### [Play my games!](https://valdevelopment.itch.io/)
  
 ### Dino's Nightmare
 #### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
