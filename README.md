@@ -43,7 +43,7 @@ You can find some of my projects below.
 
 
 # 🎮 Gamedev Projects
-
+### [Play my games!](https://valdevelopment.itch.io/)
 
 ## The Last Spellwright
 #### A personal long-term project: a 2D roguelike deck-builder built around spell composition. Cards modify a spell state by adding elemental components rather than resolving fixed effects.
@@ -58,7 +58,6 @@ Core mechanics:
 [Playable Demo](https://valdevelopment.itch.io/the-last-spellwright)  
 
 ## Game Jams
-### [Play my games!](https://valdevelopment.itch.io/)
  
 ### Dino's Nightmare
 #### Created in 72 hours for [Mini Jam 120](https://itch.io/jam/mini-jam-120-hell)
