@@ -10,7 +10,7 @@ I enjoy building end-to-end projects, from data preparation and modeling to inte
 
 You can find some of my projects below.
 
-## 📊 Statistics/Data Science Projects
+# 📊 Statistics/Data Science Projects
 
 ### Counter-Strike Team Analysis Tool
 
@@ -34,7 +34,7 @@ You can find some of my projects below.
 
 ### Text-Based Geographic Region Classification Tool
 
-- Built text-based classification models to predict the geographic region of tweets using high-dimensional textual features. I focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
+- Built text-based classification models to predict the geographic region of tweets using textual features. I focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
 - The broader project also explored logistic regression baselines and BiLSTM models for sequential text patterns, implemented by other team members.
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
@@ -69,8 +69,9 @@ Core mechanics:
 
 [Playable Demo](https://valdevelopment.itch.io/the-last-spellwright)  
 -->
-## 🎮 Gamedev Projects
+# 🎮 Gamedev Projects
 
+## Game Jams
 ### [Play my games!](https://valdevelopment.itch.io/)
  
 ### Dino's Nightmare
@@ -81,7 +82,7 @@ Core mechanics:
 
 - Designed and built the game’s arena layout and art placement
 - Implemented player movement and scoring systems
-- Shaped core gameplay feel and pacing during the 72-hour cycle
+- Helped shape core gameplay feel and pacing during the 72-hour cycle
 
 [Repo](https://github.com/Lockd/Hell-dodgeball)  
 [Link](https://lockd.itch.io/dinos-nightmare) 
