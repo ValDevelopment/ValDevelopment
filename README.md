@@ -48,7 +48,7 @@ You can find some of my projects below.
 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
-[Writeup](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
+[Report](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
 
 
 # 🎮 Gamedev Projects
