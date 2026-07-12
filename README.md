@@ -12,6 +12,15 @@ You can find some of my projects below.
 
 # 📊 Statistics/Data Science Projects
 
+### Clinical Trial Safety Analysis
+
+- Built a full CDISC SDTM/ADaM analysis pipeline in R on a public 254-patient Alzheimer's trial dataset, covering baseline demographics, adverse event summarization, and time-to-event survival analysis.
+- Modeled time-to-adverse-event with Kaplan-Meier curves and a Cox proportional hazards model, uncovering a dose-response safety signal (HR of 4.15 and 5.03 vs. placebo) confirmed by an age-adjusted sensitivity analysis.
+  
+[Repo](https://github.com/ValDevelopment/CDISC-ADaM-Survival-Analysis)
+
+[Report](https://github.com/ValDevelopment/CDISC-ADaM-Survival-Analysis/blob/main/cdisc_report.pdf)
+
 ### Counter-Strike Team Analysis Tool
 
 - Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
