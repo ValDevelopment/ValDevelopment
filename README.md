@@ -21,6 +21,13 @@ You can find some of my projects below.
 
 [Report](https://github.com/ValDevelopment/CDISC-ADaM-Survival-Analysis/blob/main/cdisc_report.pdf)
 
+### FAERS Disproportionality Analysis: Semaglutide
+
+- Ran a post-market drug safety signal detection analysis on FDA FAERS Q4 2025 data for semaglutide (Ozempic, Wegovy, Rybelsus), applying PRR, ROR, and chi-square disproportionality methods with Haldane-Anscombe correction across 3,279 primary-suspect case reports.
+- Built the pipeline independently in Python and SAS, validated both implementations to match exactly, and curated the flagged signals against MedDRA coding noise and published GLP-1 safety literature.
+  
+[Repo](https://github.com/ValDevelopment/FAERS-signal-detection)
+
 ### Counter-Strike Team Analysis Tool
 
 - Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
