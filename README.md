@@ -12,6 +12,13 @@ You can find some of my projects below.
 
 # 📊 Statistics/Data Science Projects
 
+### Clinical Trial Power Calculator
+
+- Built a two-arm clinical trial sample size and power calculator in Python (Streamlit), covering continuous, binary, and time-to-event endpoints with closed-form formulas (noncentral t, arcsine, Schoenfeld) alongside simulation-based power that fits the actual regression model (ANCOVA, logistic regression, Cox PH) to synthetic trial data.
+- Validated every closed-form formula against independent benchmarks, surfaced a real power gap between closed-form targets and Wald-test-based regression analyses across two endpoint types, and anchored a worked example to the HR of 5.03 finding from the CDISC safety analysis project.
+
+[Repo](https://github.com/ValDevelopment/clinical-trial-power-calculator)
+
 ### Clinical Trial Safety Analysis
 
 - Built a full CDISC SDTM/ADaM analysis pipeline in R on a public 254-patient Alzheimer's trial dataset, covering baseline demographics, adverse event summarization, and time-to-event survival analysis.
