@@ -17,6 +17,8 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Repo](https://github.com/ValDevelopment/clinical-trial-power-calculator)
 
+[Live App](https://clinical-trial-power-calculator.streamlit.app)
+
 ### Clinical Trial Safety Analysis
 
 - Built a full CDISC SDTM/ADaM analysis pipeline in R on a public 254-patient Alzheimer's trial dataset, covering baseline demographics, adverse event summarization, and time-to-event survival analysis.
