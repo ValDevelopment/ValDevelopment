@@ -1,14 +1,12 @@
 ### Hi there 👋 My name is Vladislav Fedorov
 
-I am a Statistician and Game Developer with a strong focus on applied data analysis, machine learning, and interactive tools.
+I'm a statistician with a broad focus on applied data analysis, statistical modeling, and interactive tools, spanning domains from clinical trial design and drug safety analysis to esports analytics. I hold a Master of Science in Statistics from the University of Illinois Urbana-Champaign (GPA 3.90), along with a Bachelor of Liberal Arts and Sciences in Statistics (GPA 3.77), with a minor in Mathematics, from the same university.
 
-I have a Bachelor of Science in Statistics degree from the University of Illinois Urbana-Champaign, and I am currently pursuing a Master's degree in Statistics and Analytics at the same university.
+I work primarily in R and Python, with SAS as well, and have client-facing statistical consulting experience translating technical findings into stakeholder-ready recommendations.
 
-I specialize in R and Python, but I also work with Unity and C# for game development.
+Outside of my statistics work, I build games in Unity and C#, from solo long-term projects to 48-72 hour game jam entries. I enjoy building end-to-end projects generally, from data preparation and modeling to interactive tools and games.
 
-I enjoy building end-to-end projects, from data preparation and modeling to interactive tools and video games.
-
-You can find some of my projects below.
+You can find my statistics and data science projects below, followed by my game development work.
 
 # 📊 Statistics/Data Science Projects
 
