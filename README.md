@@ -10,6 +10,12 @@ You can find my statistics and data science projects below, followed by my game 
 
 # 📊 Statistics/Data Science Projects
 
+### Training Periodization Agent
+- Analyzed two years of self-logged training data across three primary lifts to extract personalized weekly percent-of-max programming patterns, uncovering a training philosophy meaningfully more intense than published templates recommend.
+- Built an AI agent (Python, Groq API) that grounds its programming recommendations in this individual pattern data, generating new squat/bench/deadlift programs served through a Streamlit interface.
+
+[Repo](https://github.com/ValDevelopment/training-agent)
+
 ### Clinical Trial Safety Analysis
 
 - Built a full CDISC SDTM/ADaM analysis pipeline in R on a public 254-patient Alzheimer's trial dataset, covering baseline demographics, adverse event summarization, and time-to-event survival analysis.
