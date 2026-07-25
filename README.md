@@ -82,7 +82,7 @@ You can find my statistics and data science projects below, followed by my game 
 [Repo](https://github.com/Rsrirajan/NLP-DisasterTweets)  
 
 [Report](https://github.com/ValDevelopment/TweetLocations/blob/main/Predicting_Tweet_Locations_Report.pdf)
-
+-->
 
 # 🎮 Gamedev Projects
 ### [Play my games!](https://valdevelopment.itch.io/)
