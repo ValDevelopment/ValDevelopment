@@ -11,7 +11,7 @@ You can find my statistics and data science projects below, followed by my game 
 # 📊 Statistics/Data Science Projects
 
 ### Training Periodization Agent
-- Analyzed two years of self-logged training data across three primary lifts to extract personalized weekly percent-of-max programming patterns, uncovering a training philosophy meaningfully more intense than published templates recommend.
+- Analyzed two years of self-logged training data across three primary lifts to extract personalized weekly percent-of-max programming patterns with a training philosophy meaningfully more intense than published templates recommend.
 - Built an AI agent (Python, Groq API) that grounds its programming recommendations in this individual pattern data, generating new squat/bench/deadlift programs served through a Streamlit interface.
 
 [Repo](https://github.com/ValDevelopment/training-agent)
@@ -36,6 +36,15 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live App](https://clinical-trial-power-calculator.streamlit.app)
 
+### League of Legends Win Prediction & Analytics
+
+- Analyzed 47,000+ professional League of Legends games to model win prediction (XGBoost, 0.84 AUC), forecast meta-trend shifts (ARIMA/ETS), and build a bootstrapped Elo rating system for cross-region team strength.
+- Built an interactive Tableau dashboard visualizing the model's early-game predictors, comparing raw win-rate splits against multivariate findings across game years.
+  
+[Repo](https://github.com/ValDevelopment/league-of-legends-modeling)
+
+[Live Dashboard](https://public.tableau.com/app/profile/vladislav.fedorov/viz/LeagueofLegendswinpredictiondashboard/LeagueofLegendsWinPredictionWhatActuallyPredictsEarly-GameOutcomes)
+
 ### FAERS Disproportionality Analysis: Semaglutide
 
 - Ran a post-market drug safety signal detection analysis on FDA FAERS Q4 2025 data for semaglutide (Ozempic, Wegovy, Rybelsus), applying PRR, ROR, and chi-square disproportionality methods with Haldane-Anscombe correction across 3,279 primary-suspect case reports.
@@ -43,7 +52,7 @@ You can find my statistics and data science projects below, followed by my game 
   
 [Repo](https://github.com/ValDevelopment/FAERS-signal-detection)
 
-[Tableau](https://public.tableau.com/app/profile/vladislav.fedorov/viz/FAERSAdverseEventDashboard/SemaglutideFAERSDisproportionalitySignals)
+[Live Dashboard](https://public.tableau.com/app/profile/vladislav.fedorov/viz/FAERSAdverseEventDashboard/SemaglutideFAERSDisproportionalitySignals)
 
 ### Counter-Strike Team Analysis Tool
 
