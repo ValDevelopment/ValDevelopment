@@ -63,7 +63,7 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live App](https://counter-strike-analytics.streamlit.app/)
 
-
+<!--
 ### Indie Publisher Recommendation Tool
 
 - Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
