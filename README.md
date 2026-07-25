@@ -43,6 +43,8 @@ You can find my statistics and data science projects below, followed by my game 
   
 [Repo](https://github.com/ValDevelopment/FAERS-signal-detection)
 
+[Tableau](https://public.tableau.com/app/profile/vladislav.fedorov/viz/FAERSAdverseEventDashboard/SemaglutideFAERSDisproportionalitySignals)
+
 ### Counter-Strike Team Analysis Tool
 
 - Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
