@@ -71,6 +71,8 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live App](https://counter-strike-analytics.streamlit.app/)
 
+[Live Dashboard](https://public.tableau.com/app/profile/vladislav.fedorov/viz/CSGOMatchEconomyDashboard/Sheet1)
+
 
 ### Indie Publisher Recommendation Tool
 
