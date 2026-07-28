@@ -119,6 +119,7 @@ Core mechanics:
 #### Out of 56 submissions, our game placed 1st in Presentation and 3rd in Overall rankings.
 
 [Repo](https://github.com/Lockd/Hell-dodgeball)  
+
 [Link](https://lockd.itch.io/dinos-nightmare) 
 
 
@@ -129,6 +130,7 @@ Core mechanics:
 #### Out of 120 submissions, our game placed 7th in Enjoyment and 21st in Overall rankings.
 
 [Repo](https://github.com/Lockd/windows-td)  
+
 [Link](https://lockd.itch.io/windows-defense)  
 
 
