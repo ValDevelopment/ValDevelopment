@@ -10,14 +10,6 @@ You can find my statistics and data science projects below, followed by my game 
 
 # 📊 Statistics/Data Science Projects
 
-### Training Periodization Agent
-- Analyzed two years of self-logged training data across three primary lifts to extract personalized weekly percent-of-max programming patterns with a training philosophy meaningfully more intense than published templates recommend.
-- Built an AI agent (Python, Groq API) that grounds its programming recommendations in this individual pattern data, generating new squat/bench/deadlift programs served through a Streamlit interface.
-
-[Repo](https://github.com/ValDevelopment/training-agent)
-
-[Live App](https://training-agent-nqwsfbiaprz3njzvaqtfga.streamlit.app/)
-
 ### Clinical Trial Safety Analysis
 
 - Built a full CDISC SDTM/ADaM analysis pipeline in R on a public 254-patient Alzheimer's trial dataset, covering baseline demographics, adverse event summarization, and time-to-event survival analysis.
@@ -27,14 +19,6 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Report](https://github.com/ValDevelopment/CDISC-ADaM-Survival-Analysis/blob/main/cdisc_report.pdf)
 
-### Clinical Trial Power Calculator
-
-- Built a two-arm clinical trial sample size and power calculator in Python (Streamlit), covering continuous, binary, and time-to-event endpoints with closed-form formulas (noncentral t, arcsine, Schoenfeld) alongside simulation-based power that fits the actual regression model (ANCOVA, logistic regression, Cox PH) to synthetic trial data.
-- Validated every closed-form formula against independent benchmarks, surfaced a real power gap between closed-form targets and Wald-test-based regression analyses across two endpoint types, and anchored a worked example to the HR of 5.03 finding from the CDISC safety analysis project.
-
-[Repo](https://github.com/ValDevelopment/clinical-trial-power-calculator)
-
-[Live App](https://clinical-trial-power-calculator.streamlit.app)
 
 ### League of Legends Win Prediction & Analytics
 
@@ -54,6 +38,30 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live Dashboard](https://public.tableau.com/app/profile/vladislav.fedorov/viz/FAERSAdverseEventDashboard/SemaglutideFAERSDisproportionalitySignals)
 
+### OpenPowerlifting Relational Database
+
+- Designed a normalized MySQL database for 100,000 OpenPowerlifting competition results, separating lifter, meet, and result data into linked tables with primary and foreign key constraints.
+- Built a reproducible Python preprocessing pipeline and wrote SQL analyses using joins, conditional aggregation, CTEs, and window functions to examine federation participation, performance differences, and lift-attempt success rates.
+
+[Repo](https://github.com/ValDevelopment/opl-relational-db)
+
+### Clinical Trial Power Calculator
+
+- Built a two-arm clinical trial sample size and power calculator in Python (Streamlit), covering continuous, binary, and time-to-event endpoints with closed-form formulas (noncentral t, arcsine, Schoenfeld) alongside simulation-based power that fits the actual regression model (ANCOVA, logistic regression, Cox PH) to synthetic trial data.
+- Validated every closed-form formula against independent benchmarks, surfaced a real power gap between closed-form targets and Wald-test-based regression analyses across two endpoint types, and anchored a worked example to the HR of 5.03 finding from the CDISC safety analysis project.
+
+[Repo](https://github.com/ValDevelopment/clinical-trial-power-calculator)
+
+[Live App](https://clinical-trial-power-calculator.streamlit.app)
+
+### Training Periodization Agent
+- Analyzed two years of self-logged training data across three primary lifts to extract personalized weekly percent-of-max programming patterns with a training philosophy meaningfully more intense than published templates recommend.
+- Built an AI agent (Python, Groq API) that grounds its programming recommendations in this individual pattern data, generating new squat/bench/deadlift programs served through a Streamlit interface.
+
+[Repo](https://github.com/ValDevelopment/training-agent)
+
+[Live App](https://training-agent-nqwsfbiaprz3njzvaqtfga.streamlit.app/)
+
 ### Counter-Strike Team Analysis Tool
 
 - Analyzed CS:GO match and team-level data to study economy-driven decision-making across rounds.
@@ -63,7 +71,7 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live App](https://counter-strike-analytics.streamlit.app/)
 
-<!--
+
 ### Indie Publisher Recommendation Tool
 
 - Developed a content-based recommender system to help indie developers identify potential publishers based on historical catalog similarity.
@@ -73,7 +81,7 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Live App](https://indie-publisher-search.streamlit.app/)
 
-
+<!--
 ### Text-Based Geographic Region Classification Tool
 
 - Built text-based classification models to predict the geographic region of tweets using textual features. I focused on TF-IDF representations, class imbalance mitigation, and random forest modeling to improve predictive performance.
