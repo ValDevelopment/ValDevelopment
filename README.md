@@ -19,6 +19,12 @@ You can find my statistics and data science projects below, followed by my game 
 
 [Report](https://github.com/ValDevelopment/CDISC-ADaM-Survival-Analysis/blob/main/cdisc_report.pdf)
 
+### OpenPowerlifting Analytics Agent
+
+- Built an LLM-powered analytics agent that translates natural-language questions into schema-aware MySQL queries against a normalized OpenPowerlifting database of 100,000 competition results.
+- Added structured SQL generation, AST-based read-only query validation with SQLGlot, automatic one-shot query repair using database error feedback, and grounded natural-language explanations of returned results.
+
+[Repo](https://github.com/ValDevelopment/opl-analytics-agent)
 
 ### League of Legends Win Prediction & Analytics
 
